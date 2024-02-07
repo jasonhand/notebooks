@@ -14,4 +14,13 @@ The following notebooks were highlighted during the February 7th webinar with Go
 
 ### Webinar Resources
 
-.. coming soon.
+[Blog - Monitor Google Cloud Vertex AI with Datadog](https://dtdg.co/48Ls3dH)
+[Datadog AI Integrations](https://dtdg.co/3HykB9X)
+[Docs - Google Cloud Vertex AI Integration](https://dtdg.co/3HwCnKQ)
+[Gemini Migration Guide](https://ai.google.dev/docs/migrate_to_cloud)
+[PaLM-to-Gemini Migration Guide](https://ai.google.dev/docs/migration_guide)
+[Gemini on Vertex AI](https://cloud.google.com/vertex-ai/docs/generative-ai/multimodal/overview)
+[Built with Gemini](https://ai.google.dev/)
+[Gemini Examples](https://ai.google.dev/examples?keywords=googleai)
+[Vertex AI Generative AI Notebook Tutorials](https://cloud.devsite.corp.google.com/vertex-ai/docs/generative-ai/tutorials)
+
