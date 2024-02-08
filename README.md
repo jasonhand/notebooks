@@ -10,7 +10,7 @@ The following notebooks were highlighted during the February 7th webinar with Go
 - [Restaurant Reviews](restaurant-reviews.ipynb)
 - [Datadog Custom Logs & Metrics](datadog-custom-logs.ipynb)
 
->**Important** These notebooks were designed in Colab Enterprise which part of Vertex AI. The authentication to many of the Vertex AI models are automatically handled when the notebooks are run from within a Colab Enterprise notebook from within Vertex AI. Running these notebooks from anywhere else won't work. The demo cloud function used in the webinar will be shutdown not long after the webinar takes place. [View the source code for the cloud function](cloud_function/get-nasa-image.py). You will need your own API which can be obtained from the [NASA APIs portal](https://api.nasa.gov/).
+>**Important** These notebooks were designed in Colab Enterprise which is part of Vertex AI. The authentication to many of the Vertex AI models are automatically handled when the notebooks are run from within a Colab Enterprise notebook from within Vertex AI. Running these notebooks from anywhere else won't work. The demo cloud function used in the webinar will be shutdown not long after the webinar takes place. [View the source code for the cloud function](cloud_function/get-nasa-image.py). You will need your own API which can be obtained from the [NASA APIs portal](https://api.nasa.gov/).
 
 ### Webinar Resources
 
