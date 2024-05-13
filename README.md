@@ -4,7 +4,7 @@ Collection of Google Colab Enterprise / Jupyter Notebooks
 ## Google Cloud & Datadog Webinar
 The following notebooks were highlighted during the February 7th webinar with Google Cloud and Datadog.
 
-![](images/screenshot_thumbnail.png)
+![](images/screenshot_thumbnail1.png)
 
 >NOTE: Sample .csv data is provided in the `data` directory. For the Restaurant Reviews, you'll need to obtain your own Google Places API key and create a `.env` file with your secrets in order to run without changes to the code snippets in the notebook.
 
