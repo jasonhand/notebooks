@@ -8,11 +8,11 @@ The following notebooks were highlighted during the February 7th webinar with Go
 
 >NOTE: Sample .csv data is provided in the `data` directory. For the Restaurant Reviews, you'll need to obtain your own Google Places API key and create a `.env` file with your secrets in order to run without changes to the code snippets in the notebook.
 
-- [Grocery Store Receipt Analysis](grocery-receipt-analysis.ipynb)
 - [NASA Short Story](nasa-short-stories.ipynb)
 - [Market Summary](market-summary.ipynb)
 - [Restaurant Reviews](restaurant-reviews.ipynb)
 - [Datadog Custom Logs & Metrics](datadog-custom-logs.ipynb)
+- [Grocery Store Receipt Analysis](grocery-receipt-analysis.ipynb) - Not used in webinar
 
 >**Important** These notebooks were designed in Colab Enterprise which is part of Vertex AI. The authentication to many of the Vertex AI models are automatically handled when the notebooks are run from within a Colab Enterprise notebook from within Vertex AI. Running these notebooks from anywhere else won't work. The demo cloud function used in the webinar will be shutdown not long after the webinar takes place. [View the source code for the cloud function](cloud_function/get-nasa-image.py). You will need your own API which can be obtained from the [NASA APIs portal](https://api.nasa.gov/).
 
